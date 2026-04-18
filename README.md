@@ -1,8 +1,8 @@
-# 🏋️ Fitness Tracker App
+#  Fitness Tracker App
 
 A modern, responsive full-stack application designed to help users track their workout plans, execute sessions, and monitor their fitness progress. Built with a robust FastAPI backend and a high-performance React frontend.
 
-## 🚀 Key Features
+## Key Features
 
 *   **User Authentication**: Secure JWT-based registration and login system.
 *   **Workout Management**:
@@ -21,7 +21,7 @@ A modern, responsive full-stack application designed to help users track their w
     *   Dark/Light mode support.
     *   Smooth animations and transitions.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework**: FastAPI (Python)
@@ -41,7 +41,7 @@ A modern, responsive full-stack application designed to help users track their w
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9+
@@ -97,7 +97,7 @@ npm run dev
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### Backend
 ```text
@@ -125,8 +125,8 @@ Frontend/
 └── tailwind.config.js
 ```
 
-## 📝 License
+## License
 This project is for educational purposes. Feel free to use and modify it as you see fit.
 
-## 🌐 Live Demo
+## Live Demo
 Coming soon...
